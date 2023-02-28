@@ -9,15 +9,19 @@ form{
 body{
 	background-color: #2596be;
 }
-h1, p{
+h1,h2, p{
     text-align: center;
+    color: white;
 }
 input {
   margin: 0.25em 0em 1em 0em;
   outline: none;
   padding: 0.5em;
   border: none;
-  background-color: rgb(225, 225, 225);
+  background-color:white;
   border-radius: 0.25em;
   color: black;
+}
+label{
+  color:white;
 }
